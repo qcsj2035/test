@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b9904f7-ad98-4084-a748-78483399cc84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/health_parent/health_service_provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_parent/health_service_provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health_parent/health_service_provider/src/main/webapp/deom.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/health_parent/target/" />
@@ -22,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/health_parent/health_service_provider/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
               <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/health_parent/health_service_provider/src/main/webapp/deom.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -36,8 +45,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="spring-beans.schema" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -65,6 +74,7 @@
         <option value="$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/health_parent/health_backend/src/main/resoures/springmvc.xml" />
         <option value="$PROJECT_DIR$/health_parent/health_service_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/health_parent/health_service_provider/src/main/webapp/deom.jsp" />
       </list>
     </option>
   </component>
@@ -143,6 +153,27 @@
               <item name="health_parent" type="462c0819:PsiDirectoryNode" />
               <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -194,12 +225,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583130063786</updated>
-      <workItem from="1583130067323" duration="10331000" />
+      <workItem from="1583130067323" duration="10589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10331000" />
+    <option name="totallyTimeSpent" value="10589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -344,6 +375,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_parent/health_service_provider/src/main/webapp/deom.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
