@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b9904f7-ad98-4084-a748-78483399cc84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/health_parent/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/elementuideom/05_pageHelper_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/elementuideom/06_message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/elementuideom/07_tabs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/elementuideom/08_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/elementuideom/03_navMenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/elementuideom/03_navMenu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/elementuideom/04_table_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/elementuideom/04_table_1.html" afterDir="false" />
-    </list>
+    <list default="true" id="5b9904f7-ad98-4084-a748-78483399cc84" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/health_parent/target/" />
     <ignored path="$PROJECT_DIR$/health_parent/health_common/target/" />
@@ -256,12 +247,12 @@
       <updated>1583130063786</updated>
       <workItem from="1583130067323" duration="17625000" />
       <workItem from="1583253483474" duration="56000" />
-      <workItem from="1583284019001" duration="14736000" />
+      <workItem from="1583284019001" duration="15012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32417000" />
+    <option name="totallyTimeSpent" value="32693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
