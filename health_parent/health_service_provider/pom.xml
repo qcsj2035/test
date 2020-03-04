@@ -17,10 +17,11 @@
     <dependencies>
         <dependency>
             <groupId>com.itheima</groupId>
-            <artifactId>health_interfaces</artifactId>
+            <artifactId>health_interface</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+
      <build>
              <!--配置Maven插件-->
              <plugins>
@@ -47,11 +48,14 @@
                          <port>81</port>
                          <!--配置一个访问路径（虚拟路径:一般使用项目名称作为虚拟路径）-->
                          <path>/health_service_provider</path>
-<!--                         get的请求的字符集编码-->
+                         <!--get的请求的字符集编码-->
                          <uriEncoding>utf-8</uriEncoding>
                      </configuration>
                  </plugin>
              </plugins>
          </build>
+
+
+
 
 </project>
