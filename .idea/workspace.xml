@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b9904f7-ad98-4084-a748-78483399cc84" name="Default Changelist" comment="" />
+    <list default="true" id="5b9904f7-ad98-4084-a748-78483399cc84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/health_parent/target/" />
     <ignored path="$PROJECT_DIR$/health_parent/health_common/target/" />
@@ -136,7 +138,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=GB2312" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="187" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
@@ -147,52 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="health" type="b2602c69:ProjectViewProjectNode" />
-              <item name="health_parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="health" type="b2602c69:ProjectViewProjectNode" />
-              <item name="health_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="health_backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="health" type="b2602c69:ProjectViewProjectNode" />
-              <item name="health_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="health_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="health" type="b2602c69:ProjectViewProjectNode" />
-              <item name="health_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="health_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="health" type="b2602c69:ProjectViewProjectNode" />
-              <item name="health_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="health_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="health" type="b2602c69:ProjectViewProjectNode" />
-              <item name="health_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="health_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="elementuideom" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -247,12 +204,12 @@
       <updated>1583130063786</updated>
       <workItem from="1583130067323" duration="17625000" />
       <workItem from="1583253483474" duration="56000" />
-      <workItem from="1583284019001" duration="15012000" />
+      <workItem from="1583284019001" duration="15882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32693000" />
+    <option name="totallyTimeSpent" value="33563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
