@@ -16,4 +16,50 @@
             where code = #{value} or name = #{value}
         </if>
     </select>
+    <!--根据检查项ID来统计数据量-->
+    <select id="findCountByCheckItemId" resultType="long" parameterType="int">
+        select count(*) from t_checkgroup_checkitem where checkitem_id = #{checkitem_id}
+    </select>
+    <!--删除检查项-->
+    <delete id="deleteById" parameterType="int">
+        delete from t_checkitem where id =#{id}
+    </delete>
+    <!--编辑检查项-->
+    <update id="edit" parameterType="com.itheima.pojo.CheckItem">
+        update t_checkitem
+        <set>
+            <if test="name!=null">
+                name=#{name},
+            </if>
+            <if test="sex!=null">
+                sex=#{sex},
+            </if>
+            <if test="code!=null">
+                code=#{code},
+            </if>
+            <if test="name!=null">
+                name=#{name},
+            </if>
+            <if test="age!=null">
+                age=#{age},
+            </if>
+            <if test="price!=null">
+                price=#{price},
+            </if>
+            <if test="type!=null">
+                type=#{type},
+            </if>
+            <if test="attention!=null">
+                attention=#{attention},
+            </if>
+            <if test="remark!=null">
+                remark=#{remark},
+            </if>
+        </set>
+        where id = #{id}
+    </update>
+    <!--回显数据-->
+    <select id="findById" parameterType="int" resultType="com.itheima.pojo.CheckItem">
+        select * from t_checkitem where id = #{id}
+    </select>
 </mapper>
